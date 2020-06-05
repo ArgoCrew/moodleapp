@@ -1,0 +1,2 @@
+variables:
+  OVERRIDE_NODE_VERSION: "11"
